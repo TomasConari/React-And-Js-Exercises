@@ -5,7 +5,7 @@ export const ChangeSize = () => {
 
     const increaseSize = () => {
         const newSizes = [sizes];
-        newSizes[0] + 2;
+        newSizes[0] += 2;
         setSizes(newSizes);
     };
 
