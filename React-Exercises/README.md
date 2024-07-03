@@ -1,4 +1,4 @@
-This was exercises to change CSS styles in React components.
+These are exercises where we were changing the styles of the components.
 
 How to see it?
 
